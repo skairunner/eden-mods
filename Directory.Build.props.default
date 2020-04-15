@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <SteamFolder>C:\Program Files (x86)\Steam\steamapps\common\One Step From Eden\OSFE_Data</SteamFolder>
+    <GameFolder>$(SteamFolder)\Managed</GameFolder>
+    <ModFolder>$(SteamFolder)\StreamingAssets\Mods</ModFolder>
+  </PropertyGroup>
+</Project>

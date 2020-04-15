@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clarity", "DrywallHidesPipe\Clarity.csproj", "{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Meta", "Meta", "{603AF289-4ECC-4260-BEFC-BCA6F5E385A9}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		ONI mod reference.md = ONI mod reference.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSBuild", "MSBuild", "{9CF14110-1EA2-48ED-A5DD-8FDC97503417}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.props.default = Directory.Build.props.default
+		Directory.Build.props.user = Directory.Build.props.user
+		Directory.Build.targets = Directory.Build.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A891E594-F383-4A36-B723-E43117F7F1B4}
+	EndGlobalSection
+EndGlobal
