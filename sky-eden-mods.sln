@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSBuild", "MSBuild", "{9CF1
 		Directory.Build.targets = Directory.Build.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellpowerMath", "SpellpowerMath\SpellpowerMath.csproj", "{EC9EE881-698D-43CD-BF71-747771BB554D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDDE4F01-9BEB-497E-A058-29EEAC2569BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9EE881-698D-43CD-BF71-747771BB554D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9EE881-698D-43CD-BF71-747771BB554D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9EE881-698D-43CD-BF71-747771BB554D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9EE881-698D-43CD-BF71-747771BB554D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

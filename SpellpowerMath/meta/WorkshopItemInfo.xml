@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2064069027</PublishedFileId>
+  <Name>Spellpower+</Name>
+  <Description>Makes spellpower more useful for high-damage spells</Description>
+  <IconFileName>workshopIcon.png</IconFileName>
+  <Tags>Gameplay</Tags>
+  <Priority>0</Priority>
+  <ModVersion>1</ModVersion>
+  <GameVersion>1.4</GameVersion>
+</WorkshopItemInfo>
